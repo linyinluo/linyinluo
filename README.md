@@ -10,9 +10,9 @@
 
 🌊 🫧 🎐 🫧 🌊 🫧 🎐 🫧 🌊
 
-$\color{7baaf7}{\text{\itshape Welcome to my little ocean}}$
+$\color{7baaf7}{\mathit{Welcome\ to\ my\ little\ ocean}}$
 
-$\color{8a96a3}{\text{\itshape Information Systems \& Information Management}}$
+$\color{8a96a3}{\mathit{Information\ Systems\ and\ Information\ Management}}$
 
 🫧　🎐　🌊　🐬　🫧
 
@@ -22,12 +22,12 @@ $\color{8a96a3}{\text{\itshape Information Systems \& Information Management}}$
 
 ## 🌊 About Me
 
-$\color{7baaf7}{\text{\itshape 🌊 Exploring the ocean of code}}$
+$\color{7baaf7}{\mathit{Exploring\ the\ ocean\ of\ code}}$
 
-$\color{8a96a3}{\text{\itshape 🫧 Building things I find interesting}}$
+$\color{8a96a3}{\mathit{Building\ things\ I\ find\ interesting}}$
 
-$\color{7baaf7}{\text{\itshape 🎐 Learning something new every day}}$
+$\color{7baaf7}{\mathit{Learning\ something\ new\ every\ day}}$
 
-$\color{8a96a3}{\text{\itshape 🐬 Turning ideas into projects}}$
+$\color{8a96a3}{\mathit{Turning\ ideas\ into\ projects}}$
 
-$\color{7baaf7}{\text{\itshape ✨ Always curious, always creating}}$
+$\color{7baaf7}{\mathit{Always\ curious,\ always\ creating}}$
