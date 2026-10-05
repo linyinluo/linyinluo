@@ -5,8 +5,8 @@
 
  
 
-<!-- 蓝色水纹分割线 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&height=12&color=7baaf7&opacity=80&section=footer" width="100%">
+<!-- 蓝色波浪分割线 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=7baaf7&section=footer" width="100%">
 
  
 
