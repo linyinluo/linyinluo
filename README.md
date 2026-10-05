@@ -14,7 +14,7 @@
 
 $\color{7baaf7}{\text{\textit{Welcome to my little ocean}}}$
 
-$\color{8a96a3}{\text{\textit{Information Systems and Information Management}}}$
+$\color{8a96a3}{\text{\textit{Learn some knowledge}}}$
 
 🫧  🎐  🌊  🐬  🫧
 
