@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**linyinluo/linyinluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0077b6,100:00b4d8&height=220&section=header&text=LINYINLUO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-Here are some ideas to get you started:
+# 🌊 Hello, I'm linyinluo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐋 Welcome to my little corner of the ocean
+
+🌊 🐠 🪸 🐋 🐚 🐙 🐳 🌊
+
+</div>
+
+---
+
+## 🌊 About Me
+
+```text
+🌊 Exploring the ocean of code
+🐋 Building things I find interesting
+🪸 Learning something new every day
+🐠 Turning ideas into projects
+✨ Always curious, always creating
