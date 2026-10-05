@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0077b6,100:00b4d8&height=220&section=header&text=LINYINLUO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="./微信图片_20260827155453_5_2.jpg" width="100%">
 
 # 🌊 Hello, I'm linyinluo
 
