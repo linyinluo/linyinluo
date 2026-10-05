@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./ocean-bubbles-header.gif" width="100%">
+<img src="./ocean-bubbles-header-striped.gif" width="100%">
 
 <br><br>
 
