@@ -10,13 +10,9 @@
 
 🌊 🫧 🎐 🫧 🌊 🫧 🎐 🫧 🌊
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&color=transparent&text=Welcome%20to%20my%20little%20ocean&section=header&fontSize=40&fontColor=7baaf7&fontAlignY=45" width="100%">
-</p>
+$\color{5ba3d9}{\text{Welcome to my little ocean}}$
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=40&color=transparent&text=Information%20Systems%20%26%20Information%20Management&section=header&fontSize=24&fontColor=7baaf7&fontAlignY=45" width="100%">
-</p>
+**Information Systems & Information Management**
 
 🫧　🎐　🌊　🐬　🫧
 
