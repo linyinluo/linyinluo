@@ -2,21 +2,33 @@
 
 <img src="./微信图片_20260827155453_5_2.jpg" width="100%">
 
-# 🌊 Hello, I'm linyinluo
+<br><br>
 
-### 🐋 Welcome to my little corner of the ocean
+# 🫧 linyinluo
 
-🌊 🐠 🪸 🐋 🐚 🐙 🐳 🌊
+### `a little soda, a little code.`
+
+🫧　💧　🫧　💧　🫧　💧　🫧
+
+*Welcome to my little sparkling corner.*
+
+<br>
+
+**Information Systems & Information Management**
 
 </div>
 
 ---
 
-## 🌊 About Me
+## 🫧 About Me
 
 ```text
-🌊 Exploring the ocean of code
-🐋 Building things I find interesting
-🪸 Learning something new every day
-🐠 Turning ideas into projects
-✨ Always curious, always creating
+🥤 Information Systems & Information Management
+
+🫧 Exploring the sparkling side of technology
+
+💧 Learning something new, one bubble at a time
+
+🌱 Building things I find interesting
+
+✨ Turning ideas into something real
