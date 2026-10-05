@@ -10,24 +10,24 @@
 
 🌊 🫧 🎐 🫧 🌊 🫧 🎐 🫧 🌊
 
-$\color{7baaf7}{\mathit{Welcome\ to\ my\ little\ ocean}}$
+$\color{7baaf7}{\text{\textit{Welcome to my little ocean}}}$
 
-$\color{8a96a3}{\mathit{Information\ Systems\ and\ Information\ Management}}$
+$\color{8a96a3}{\text{\textit{Information Systems and Information Management}}}$
 
-🫧　🎐　🌊　🐬　🫧
+🫧  🎐  🌊  🐬  🫧
 
 </div>
 
 ---
 
-## 🌊 About Me
+$\color{555555}{\text{\textit{🌊 About Me}}}$
 
-$\color{7baaf7}{\mathit{Exploring\ the\ ocean\ of\ code}}$
+$\color{7baaf7}{\text{\textit{Exploring the ocean of code}}}$
 
-$\color{8a96a3}{\mathit{Building\ things\ I\ find\ interesting}}$
+$\color{8a96a3}{\text{\textit{Building things I find interesting}}}$
 
-$\color{7baaf7}{\mathit{Learning\ something\ new\ every\ day}}$
+$\color{7baaf7}{\text{\textit{Learning something new every day}}}$
 
-$\color{8a96a3}{\mathit{Turning\ ideas\ into\ projects}}$
+$\color{8a96a3}{\text{\textit{Turning ideas into projects}}}$
 
-$\color{7baaf7}{\mathit{Always\ curious,\ always\ creating}}$
+$\color{7baaf7}{\text{\textit{Always curious, always creating}}}$
