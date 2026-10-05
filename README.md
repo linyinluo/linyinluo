@@ -24,9 +24,6 @@ $\color{8a96a3}{\text{\textit{Information Systems and Information Management}}}$
 
 $\color{555555}{\text{\textit{🌊 About Me}}}$
 
-$\color{7baaf7}{\text{\textit{Exploring the ocean of code}}}$
-
-$\color{8a96a3}{\text{\textit{Building things I find interesting}}}$
 
 $\color{7baaf7}{\text{\textit{Learning something new every day}}}$
 
